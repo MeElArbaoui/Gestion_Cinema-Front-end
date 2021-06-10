@@ -1,0 +1,13 @@
+.clickable{
+  cursor: pointer;
+}
+.ticket{
+  margin: 5px;
+  width:45px;
+}
+.color4back{
+  background-color: #d9edf7;
+}
+.pull-right {
+  float: right !important;
+}
